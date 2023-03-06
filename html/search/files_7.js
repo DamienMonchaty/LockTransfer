@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['license_2emd_388',['LICENSE.md',['../_l_i_c_e_n_s_e_8md.html',1,'']]],
+  ['license_2etxt_389',['LICENSE.TXT',['../_microsoft_8_bcl_8_async_interfaces_81_81_80_2_l_i_c_e_n_s_e_8_t_x_t.html',1,'(Global Namespace)'],['../_system_8_buffers_84_85_81_2_l_i_c_e_n_s_e_8_t_x_t.html',1,'(Global Namespace)'],['../_system_8_diagnostics_8_diagnostic_source_84_87_81_2_l_i_c_e_n_s_e_8_t_x_t.html',1,'(Global Namespace)'],['../_system_8_memory_84_85_84_2_l_i_c_e_n_s_e_8_t_x_t.html',1,'(Global Namespace)'],['../_system_8_numerics_8_vectors_84_85_80_2_l_i_c_e_n_s_e_8_t_x_t.html',1,'(Global Namespace)'],['../_system_8_runtime_8_compiler_services_8_unsafe_84_85_83_2_l_i_c_e_n_s_e_8_t_x_t.html',1,'(Global Namespace)'],['../_system_8_runtime_8_windows_runtime_84_86_80_2_l_i_c_e_n_s_e_8_t_x_t.html',1,'(Global Namespace)'],['../_system_8_runtime_8_windows_runtime_8_u_i_8_xaml_84_86_80_2_l_i_c_e_n_s_e_8_t_x_t.html',1,'(Global Namespace)'],['../_system_8_threading_8_tasks_8_extensions_84_85_82_2_l_i_c_e_n_s_e_8_t_x_t.html',1,'(Global Namespace)'],['../_system_8_value_tuple_84_85_80_2_l_i_c_e_n_s_e_8_t_x_t.html',1,'(Global Namespace)']]],
+  ['lockself_2ecsproj_2efilelistabsolute_2etxt_390',['LockSelf.csproj.FileListAbsolute.txt',['../_debug_2_lock_self_8csproj_8_file_list_absolute_8txt.html',1,'(Global Namespace)'],['../_release_2_lock_self_8csproj_8_file_list_absolute_8txt.html',1,'(Global Namespace)']]],
+  ['lockselfribbon_2ecs_391',['LockSelfRibbon.cs',['../_lock_self_ribbon_8cs.html',1,'']]],
+  ['lockselfribbon_2edesigner_2ecs_392',['LockSelfRibbon.Designer.cs',['../_lock_self_ribbon_8_designer_8cs.html',1,'']]]
+];

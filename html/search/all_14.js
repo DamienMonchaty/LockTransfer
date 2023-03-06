@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['verifconnect_316',['VerifConnect',['../class_core_1_1_services_1_1_auth_s_s_o_service.html#a52a77997059b492359664c732aee70dd',1,'Core::Services::AuthSSOService']]],
+  ['version_2etxt_317',['version.txt',['../_microsoft_8_bcl_8_async_interfaces_81_81_80_2version_8txt.html',1,'(Global Namespace)'],['../_system_8_buffers_84_85_81_2version_8txt.html',1,'(Global Namespace)'],['../_system_8_diagnostics_8_diagnostic_source_84_87_81_2version_8txt.html',1,'(Global Namespace)'],['../_system_8_memory_84_85_84_2version_8txt.html',1,'(Global Namespace)'],['../_system_8_numerics_8_vectors_84_85_80_2version_8txt.html',1,'(Global Namespace)'],['../_system_8_runtime_8_compiler_services_8_unsafe_84_85_83_2version_8txt.html',1,'(Global Namespace)'],['../_system_8_runtime_8_windows_runtime_84_86_80_2version_8txt.html',1,'(Global Namespace)'],['../_system_8_runtime_8_windows_runtime_8_u_i_8_xaml_84_86_80_2version_8txt.html',1,'(Global Namespace)'],['../_system_8_threading_8_tasks_8_extensions_84_85_82_2version_8txt.html',1,'(Global Namespace)'],['../_system_8_value_tuple_84_85_80_2version_8txt.html',1,'(Global Namespace)']]],
+  ['view_318',['view',['../class_lock_self_1_1_properties_1_1_resources.html#ad7218612dbcd115f65e23ea509ecc933',1,'LockSelf::Properties::Resources']]]
+];
